@@ -1,4 +1,4 @@
-#Exploratory Data Analysis (EDA) of World Population in Pandas
+# Exploratory Data Analysis (EDA) of World Population in Pandas
 
 Utilized Python to analyze world population from 1970 to 2022 and gain insights into continents’ population
 
